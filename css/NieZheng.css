@@ -1,5 +1,5 @@
-body{
-    font-family:'Helvetica Neue',Helvetica,'Lucida Grande',Arial,'Hiragino Sans GB',微软雅黑,'WenQuanYi Micro Hei',STHeiti,SimSun,sans-serif;
+p{
+    font: 400 15px/1.8 "Microsoft YaHei","微软雅黑",sans-serif;
 }
 html,body,ul,li{
     margin: 0;
